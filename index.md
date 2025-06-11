@@ -36,6 +36,7 @@ Turning ideas into intelligent, end-to-end applications—fast.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/venkata-keerthan-n-89a188212)
 [![Github](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/keerthanvenkata)
+
 ---
 
 ### ⚡ Fun Facts
